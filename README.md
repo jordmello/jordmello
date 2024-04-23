@@ -29,15 +29,6 @@ I work with various technologies and tools, including but not limited to:
 - **DevOps**: Git/GitHub
 - **Design**: Figma | Canva
 
-### 🏆 Achievements
-
-- **Microsoft Sustainability Virtual Hackathon - Oct 2022**
-  - 3rd place winners
-  - Solved real-life PR's human waste challenge in collaboration
-
-- **Microsoft Sustainability Virtual Hackathon - Apr 2022**
-  - 1st place winners
-  - Solved real-life water shortage challenge in collaboration
 
 ---
 
